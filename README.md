@@ -1,6 +1,6 @@
 # Привет, я Довидович Андрей!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A3FF&width=435&lines=Android+Developer;Kotlin+%26+Compose+энтузиаст;Люблю+создавать+полезные+приложения)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A3FF&width=435&lines=Android+Developer;Kotlin+%26+Compose;Люблю+создавать)](https://git.io/typing-svg)
 
 ---
 
