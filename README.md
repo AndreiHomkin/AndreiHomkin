@@ -9,7 +9,7 @@
 
 - В настоящее время работаю над **Weather** — приложение для погоды
 - Цель: развиваться в направлении Android-инженера и создавать продукты, которые помогают людям
-- Связаться со мной: [Telegram](https://t.me/mc_homaa) | [Email](mailto:andreidov2506@email.com) | [LinkedIn](https://www.linkedin.com/in/andrew-dovidovich/)
+- Связаться со мной: [Telegram](https://t.me/andrei_dovidovich) | [Email](mailto:andreidov2506@email.com) | [LinkedIn](https://www.linkedin.com/in/andrew-dovidovich/)
 
 ---
 
